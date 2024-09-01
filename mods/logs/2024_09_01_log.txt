@@ -1,0 +1,206 @@
+03:57:26 PM Log:  (C:\projects\payday2-superblt\src\debug\blt_debug.cpp:124) Command line: "D:\SteamLibrary\steamapps\common\PAYDAY 2\payday2_win32_release.exe"
+03:57:26 PM Log:  (C:\projects\payday2-superblt\platforms\w32\signatures\signatures.cpp:350) Scanning for signatures in payday2_win32_release.exe
+03:57:26 PM Log:  (C:\projects\payday2-superblt\platforms\w32\signatures\signatures.cpp:402) Scanned for 56 signatures in 32 milliseconds with 0 cache misses
+03:57:26 PM Log:  (C:\projects\payday2-superblt\src\dbutil\DB.cpp:127) Start loading DB info
+03:57:27 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+03:57:39 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1038) Checking for updates
+03:57:39 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+03:57:41 PM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+03:57:41 PM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+03:57:41 PM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+03:57:41 PM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+03:57:41 PM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+03:57:41 PM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+03:57:41 PM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+03:57:41 PM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+03:57:41 PM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+03:57:41 PM Lua: [INFO] [BLT] Removing log: 2024_08_31_log.txt
+03:57:41 PM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+03:57:41 PM Lua: [INFO] [BLT] Setting up mod 'Downloadable Content'
+03:57:41 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+03:57:41 PM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+03:57:41 PM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+03:57:41 PM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+03:57:41 PM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+03:57:41 PM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+03:57:41 PM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+03:57:41 PM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+03:57:41 PM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+03:57:41 PM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+03:57:41 PM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+03:57:41 PM Lua: [INFO] [BLT] Setting up mod 'Downloadable Content'
+03:57:43 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+03:57:43 PM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+03:57:43 PM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+03:57:43 PM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+03:57:43 PM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+03:57:43 PM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+03:57:43 PM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+03:57:43 PM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+03:57:43 PM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+03:57:43 PM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+03:57:43 PM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+03:57:43 PM Lua: [INFO] [BLT] Setting up mod 'Downloadable Content'
+03:58:29 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://sblt-update.znix.xyz/pd2update/updates/meta.php?id=payday2blt
+03:58:30 PM Log:  (C:\projects\payday2-superblt\src\http\http.cpp:39) CURL_INITD
+03:58:30 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://sblt-update.znix.xyz/pd2update/updates/meta.php?id=payday2bltwsockdll
+03:58:30 PM Lua: [INFO] [Updates] Received update data for 'payday2bltwsockdll'
+03:58:30 PM Lua: [INFO] [Updates] Received update data for 'payday2blt'
+03:58:30 PM Lua: [INFO] [Downloads] Added pending download for SuperBLT (SuperBLT)
+03:58:30 PM Lua: [INFO] [Updates] Comparing hash data for 'payday2bltwsockdll':
+Server: 8cab3518a8afd41feb6ae1214112cd957e10dc9f0f6236d4766f0635e5301344
+ Local: 8cab3518a8afd41feb6ae1214112cd957e10dc9f0f6236d4766f0635e5301344
+03:58:47 PM Log:  (C:\proj04:12:31 PM Log:  (C:\projects\payday2-superblt\src\debug\blt_debug.cpp:124) Command line: "D:\SteamLibrary\steamapps\common\PAYDAY 2\payday2_win32_release.exe"
+04:12:31 PM Log:  (C:\projects\payday2-superblt\platforms\w32\signatures\signatures.cpp:350) Scanning for signatures in payday2_win32_release.exe
+04:12:31 PM Log:  (C:\projects\payday2-superblt\platforms\w32\signatures\signatures.cpp:402) Scanned for 56 signatures in 16 milliseconds with 0 cache misses
+04:12:31 PM Log:  (C:\projects\payday2-superblt\src\dbutil\DB.cpp:127) Start loading DB info
+04:12:32 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+04:12:43 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1038) Checking for updates
+04:12:43 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+04:12:44 PM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+04:12:44 PM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+04:12:44 PM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+04:12:44 PM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+04:12:44 PM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+04:12:44 PM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+04:12:44 PM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+04:12:44 PM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+04:12:44 PM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+04:12:44 PM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+04:12:44 PM Lua: [INFO] [BLT] Setting up mod 'Downloadable Content'
+04:12:44 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+04:12:44 PM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+04:12:44 PM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+04:12:44 PM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+04:12:44 PM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+04:12:44 PM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+04:12:44 PM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+04:12:44 PM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+04:12:44 PM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+04:12:44 PM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+04:12:44 PM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+04:12:44 PM Lua: [INFO] [BLT] Setting up mod 'Downloadable Content'
+04:12:47 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+04:12:47 PM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+04:12:47 PM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+04:12:47 PM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+04:12:47 PM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+04:12:47 PM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+04:12:47 PM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+04:12:47 PM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+04:12:47 PM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+04:12:47 PM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+04:12:47 PM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+04:12:47 PM Lua: [INFO] [BLT] Setting up mod 'Downloadable Content'
+04:13:22 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://sblt-update.znix.xyz/pd2update/updates/meta.php?id=payday2blt
+04:13:22 PM Log:  (C:\projects\payday2-superblt\src\http\http.cpp:39) CURL_INITD
+04:13:22 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://sblt-update.znix.xyz/pd2update/updates/meta.php?id=payday2bltwsockdll
+04:13:23 PM Lua: [INFO] [Updates] Received update data for 'payday2blt'
+04:13:23 PM Lua: [INFO] [Downloads] Added pending download for SuperBLT (SuperBLT)
+04:13:23 PM Lua: [INFO] [Updates] Received update data for 'payday2bltwsockdll'
+04:13:23 PM Lua: [INFO] [Updates] Comparing hash data for 'payday2bltwsockdll':
+Server: 8cab3518a8afd41feb6ae1214112cd957e10dc9f0f6236d4766f0635e5301344
+ Local: 8cab3518a8afd41feb6ae1214112cd957e10dc9f0f6236d4766f0635e5301344
+04:13:58 PM Log:  (C:\projects\payday2-superblt\src\dbutil\DB.cpp:242) Finished loading DB info: 272765 files in 86562 ms
+04:13:59 PM Lua: [INFO] [LuaNetworking] seba: GNSP/1/BCO/ ggac_od_t2 white-nothing liberty_flame ranger_black none wpn_fps_ass_m4 77_21_55_73_7_175_45_69_80_62_18_67_156_ wpn_fps_pis_lemming 3_6_7_2_66_19_5_18_ cqc new_m4_cs3-3-0 color_xm20_01-5-0 mariachi default jesterstripe|1.0
+04:13:59 PM Lua: [INFO] [LuaNetworking] seba: GNSP/1/BEO|1/{"glove_variation":"default"}
+04:13:59 PM Lua: [INFO] [LuaNetworking] seba: GNSP/1/BEOD/1
+04:13:59 PM Lua: [INFO] [LuaNetworking] seba: GNSP/1/BCO/ ggac_od_t2 white-nothing liberty_flame ranger_black none wpn_fps_ass_m4 77_21_55_73_7_175_45_69_80_62_18_67_156_ wpn_fps_pis_lemming 3_6_7_2_66_19_5_18_ cqc new_m4_cs3-3-0 color_xm20_01-5-0 mariachi default jesterstripe|1.0
+04:13:59 PM Lua: [INFO] [LuaNetworking] seba: GNSP/1/BEO|1/{"glove_variation":"default"}
+04:13:59 PM Lua: [INFO] [LuaNetworking] seba: GNSP/1/BEOD/1
+04:13:59 PM Lua: [INFO] [LuaNetworking] seba: GNSP/1/BEO|1/{"glove_variation":"default"}
+04:13:59 PM Lua: [INFO] [LuaNetworking] seba: GNSP/1/BEOD/1
+04:13:59 PM Lua: [INFO] [LuaNetworking] seba: GNSP/1/BCO/ ggac_od_t2 white-nothing liberty_flame ranger_black none wpn_fps_ass_m4 77_21_55_73_7_175_45_69_80_62_18_67_156_ wpn_fps_pis_lemming 3_6_7_2_66_19_5_18_ cqc new_m4_cs3-3-0 color_xm20_01-5-0 mariachi default jesterstripe|1.0
+04:19:20 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+04:19:20 PM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+04:19:20 PM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+04:19:20 PM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+04:19:20 PM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+04:19:20 PM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+04:19:20 PM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+04:19:20 PM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+04:19:20 PM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+04:19:20 PM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+04:19:20 PM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+04:19:20 PM Lua: [INFO] [BLT] Setting up mod 'Downloadable Content'
+04:19:20 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+04:19:20 PM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+04:19:20 PM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+04:19:20 PM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+04:19:20 PM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+04:19:20 PM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+04:19:20 PM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+04:19:20 PM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+04:19:20 PM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+04:19:20 PM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+04:19:20 PM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+04:19:20 PM Lua: [INFO] [BLT] Setting up mod 'Downloadable Content'
+04:19:21 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+04:19:21 PM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+04:19:21 PM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+04:19:21 PM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+04:19:21 PM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+04:19:21 PM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+04:19:21 PM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+04:19:21 PM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+04:19:21 PM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+04:19:21 PM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+04:19:21 PM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+04:19:21 PM Lua: [INFO] [BLT] Setting up mod 'Downloadable Content'
+04:19:41 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+04:19:41 PM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+04:19:41 PM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+04:19:41 PM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+04:19:41 PM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+04:19:41 PM Lua: [INFO] [BLT] Loading modu04:35:02 PM Log:  (C:\projects\payday2-superblt\src\debug\blt_debug.cpp:124) Command line: "D:\SteamLibrary\steamapps\common\PAYDAY 2\payday2_win32_release.exe"
+04:35:02 PM Log:  (C:\projects\payday2-superblt\platforms\w32\signatures\signatures.cpp:350) Scanning for signatures in payday2_win32_release.exe
+04:35:02 PM Log:  (C:\projects\payday2-superblt\platforms\w32\signatures\signatures.cpp:402) Scanned for 56 signatures in 0 milliseconds with 0 cache misses
+04:35:02 PM Log:  (C:\projects\payday2-superblt\src\dbutil\DB.cpp:127) Start loading DB info
+04:35:03 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+04:35:08 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1038) Checking for updates
+04:35:08 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+04:35:08 PM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+04:35:08 PM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+04:35:08 PM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+04:35:08 PM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+04:35:08 PM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+04:35:08 PM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+04:35:08 PM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+04:35:08 PM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+04:35:08 PM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+04:35:08 PM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+04:35:08 PM Lua: [INFO] [BLT] Setting up mod 'Fix EpicMM Crossplay'
+04:35:08 PM Lua: [INFO] [BLT] Setting up mod 'Downloadable Content'
+04:35:08 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+04:35:09 PM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+04:35:09 PM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+04:35:09 PM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+04:35:09 PM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+04:35:09 PM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+04:35:09 PM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+04:35:09 PM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+04:35:09 PM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+04:35:09 PM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+04:35:09 PM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+04:35:09 PM Lua: [INFO] [BLT] Setting up mod 'Fix EpicMM Crossplay'
+04:35:09 PM Lua: [INFO] [BLT] Setting up mod 'Downloadable Content'
+04:35:09 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:1007) Initiating Hook
+04:35:09 PM Lua: [INFO] [BLT] Loading module 'BLTLogs'
+04:35:09 PM Lua: [INFO] [BLT] Loading module 'BLTModManager'
+04:35:09 PM Lua: [INFO] [BLT] Loading module 'BLTDownloadManager'
+04:35:09 PM Lua: [INFO] [BLT] Loading module 'BLTKeybindsManager'
+04:35:09 PM Lua: [INFO] [BLT] Loading module 'BLTPersistScripts'
+04:35:09 PM Lua: [INFO] [BLT] Loading module 'BLTLocalization'
+04:35:09 PM Lua: [INFO] [BLT] Loading module 'BLTNotificationsManager'
+04:35:09 PM Lua: [INFO] [BLT] Loading module 'BLTAssetManager'
+04:35:09 PM Lua: [INFO] [BLT] Cleaning logs folder, lifetime 1 day(s)
+04:35:09 PM Lua: [INFO] [BLT] Setting up mod 'SuperBLT'
+04:35:09 PM Lua: [INFO] [BLT] Setting up mod 'Fix EpicMM Crossplay'
+04:35:09 PM Lua: [INFO] [BLT] Setting up mod 'Downloadable Content'
+04:35:23 PM Log:  (C:\projects\payday2-superblt\src\dbutil\DB.cpp:242) Finished loading DB info: 272765 files in 20580 ms
+04:35:34 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://sblt-update.znix.xyz/pd2update/updates/meta.php?id=payday2blt
+04:35:34 PM Log:  (C:\projects\payday2-superblt\src\http\http.cpp:39) CURL_INITD
+04:35:34 PM Log:  (C:\projects\payday2-superblt\src\InitiateState.cpp:486) HTTP request to https://sblt-update.znix.xyz/pd2update/updates/meta.php?id=payday2bltwsockdll
+04:35:34 PM Lua: [INFO] [Updates] Received update data for 'payday2blt'
+04:35:34 PM Lua: [INFO] [Downloads] Added pending download for SuperBLT (SuperBLT)
+04:35:34 PM Lua: [INFO] [Updates] Received update data for 'payday2blt

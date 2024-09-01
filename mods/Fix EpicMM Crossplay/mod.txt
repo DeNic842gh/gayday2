@@ -1,0 +1,13 @@
+{
+	"name" : "Fix EpicMM Crossplay",
+	"description" : "Self explanatory.",
+	"author" : "vojin154",
+	"contact" : "vojin154 (Discord)",
+	"version" : "1.0",
+	"hooks" : [
+		{
+			"hook_id": "lib/utils/version",
+			"script_path": "mod.lua"
+		}
+	]
+}

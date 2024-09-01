@@ -1,0 +1,1 @@
+{"keybinds":[],"logs":{"lifetime":1,"log_level":4},"mods_gui":{"show_mod_icons":true,"show_libraries":false},"mods":{"base":{"enabled":true,"updates":{"payday2bltwsockdll":true,"payday2blt":true},"safe":false},"unlock_all_dlcs":{"enabled":true,"updates":[],"safe":true}},"language":"en"}
